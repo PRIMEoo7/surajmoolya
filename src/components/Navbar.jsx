@@ -10,7 +10,10 @@ export default function Navbar() {
   ];
   return (
     <div className="sticky-0 flex justify-between items-center gap-4 sm:gap-8 p-4 text-xs sm:text-sm">
-      <a className="text-sm sm:text-base" href="/">
+      <a
+        className="text-sm sm:text-base flex items-center justify-center h-9 w-9 rounded-full border border-gray-300 bg-white-500"
+        href="/"
+      >
         SM
       </a>
 
