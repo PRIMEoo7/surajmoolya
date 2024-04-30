@@ -4,9 +4,9 @@ import Main from "./Main";
 
 export default function Navbar() {
   const links = [
-    ["LinkedIn", "http://www.google.com"],
-    ["GitHub", "http://www.google.com"],
-    ["YouTube", "http://www.google.com"],
+    ["LinkedIn", "http://www.linkedin.com/in/suraj-moolya-9727291b6"],
+    //["GitHub", "http://www.google.com"],
+    //["YouTube", "http://www.google.com"],
   ];
   return (
     <div className="sticky-0 flex justify-between items-center gap-4 sm:gap-8 p-4 text-xs sm:text-sm">
