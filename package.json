@@ -2,7 +2,7 @@
   "name": "ai-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://primeoo7.github.io/portfolio1.git",
+  "homepage": "https://github.com/PRIMEoo7/surajmoolya.git",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
